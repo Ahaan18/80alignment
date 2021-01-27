@@ -1,0 +1,22 @@
+body{
+   text-align:center;
+    background-color: black;
+    color:white;
+    font-family: Roboto Mono, monospace;
+}
+#p{
+float:left;
+width:48%;
+}
+#pa{
+float:right;
+width:48%;
+}
+button{
+    color:whitesmoke;
+    background-color: black;
+}
+input{
+    color:white;
+    background-color: black;
+}
